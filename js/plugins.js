@@ -7,5 +7,6 @@ var $plugins =
 {"name":"ButtonPicture","status":true,"description":"Makes a picture clickable.","parameters":{}},
 {"name":"TextPicture","status":true,"description":"Displays text as a picture.","parameters":{}},
 {"name":"MZQuizzer","status":true,"description":"v0.0.1 Quiz Engine for MZ","parameters":{}},
-{"name":"questionDatabase","status":true,"description":"","parameters":{}}
+{"name":"questionDatabase","status":true,"description":"","parameters":{}},
+{"name":"TorigoyaMZ_EnemyHpBar","status":true,"description":"敵にHPバーを表示プラグイン (v.1.3.2)","parameters":{"base":"","basePosition":"top","basePosX":"0","basePosY":"0","customize":"","customizeCondition":"always","customizeGaugeWidth":"100","customizeGaugeHeight":"10","customizeDrawLabel":"true","customizeLabelWidth":"20","customizeLabelFontSize":"16","customizeValueFontSize":"20","customizeMaskHpValue":"?????"}}
 ];

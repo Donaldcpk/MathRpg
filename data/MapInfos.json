@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Village","order":1,"parentId":0,"scrollX":811,"scrollY":435.5},
-{"id":2,"expanded":false,"name":"森林城鎮","order":2,"parentId":1,"scrollX":819,"scrollY":583.5,"quick":false},
+{"id":2,"expanded":false,"name":"森林城鎮","order":2,"parentId":1,"scrollX":811,"scrollY":1163.5,"quick":false},
 {"id":3,"expanded":false,"name":"綠洲","order":9,"parentId":1,"scrollX":702.5,"scrollY":496.5,"quick":false},
 {"id":4,"expanded":false,"name":"城堡","order":10,"parentId":1,"scrollX":1470.5,"scrollY":1108.5,"quick":false},
 {"id":5,"expanded":false,"name":"礦業城市","order":11,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
